@@ -1362,3 +1362,4 @@ contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
 pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
  
 
+fightertechweb.com, 21133, DIRECT
